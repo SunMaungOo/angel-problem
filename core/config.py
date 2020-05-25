@@ -1,0 +1,5 @@
+EMPTY_SPACE = ' '
+
+BLOCK_SPACE = 'D'
+
+ANGLE_SPACE = 'A'
